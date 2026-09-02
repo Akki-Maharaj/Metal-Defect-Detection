@@ -1,0 +1,6 @@
+Mean IoU: 0.073
+MT_Blowhole: 0.005 (n=115)
+MT_Break: 0.060 (n=85)
+MT_Crack: 0.012 (n=57)
+MT_Fray: 0.193 (n=32)
+MT_Uneven: 0.160 (n=99)

@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+ MT_Blowhole       0.00      0.00      0.00         1
+    MT_Break       0.33      1.00      0.50         1
+    MT_Crack       0.33      0.50      0.40         2
+     MT_Fray       1.00      1.00      1.00         2
+     MT_Free       0.00      0.00      0.00         2
+   MT_Uneven       1.00      0.50      0.67         2
+
+    accuracy                           0.50        10
+   macro avg       0.44      0.50      0.43        10
+weighted avg       0.50      0.50      0.46        10

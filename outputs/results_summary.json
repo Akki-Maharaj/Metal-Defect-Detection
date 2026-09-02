@@ -1,0 +1,13 @@
+{
+  "best_model": "svm",
+  "svm": {
+    "cv_mean_accuracy": 0.23928571428571427,
+    "cv_std_accuracy": 0.1080910425030111,
+    "test_accuracy": 0.5
+  },
+  "random_forest": {
+    "cv_mean_accuracy": 0.24285714285714288,
+    "cv_std_accuracy": 0.1381362828986694,
+    "test_accuracy": 0.5
+  }
+}

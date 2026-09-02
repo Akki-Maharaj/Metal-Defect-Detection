@@ -1,0 +1,23 @@
+# Full dataset (download with download_data.sh) -- only data/sample is committed
+data/full/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Generated artifacts (regenerate with src/train.py)
+# Comment these out if you want to commit your trained model / plots as
+# proof of results for recruiters -- this repo ships with them committed.
+# models/*.joblib
+# outputs/*.png
